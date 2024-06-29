@@ -24,7 +24,7 @@ class FinanceApp {
             echo "3. View incomes\n";
             echo "4. View expenses\n";
             echo "5. View savings\n";
-            echo "6. View categories (sum all same category in ones)\n";
+            echo "6. View categories \n";
             echo "7. Manage categories (view/create categories)\n";
             echo "0. Exit\n";
             echo "Enter your option: ";
